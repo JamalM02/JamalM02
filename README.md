@@ -1,6 +1,6 @@
 <h1 align="center">👋 Hi there! I'm Jamal Majadle</h1>
 <p align="center">
-🚀 Software Engineer | 🎓 Final-Year Student at Kinneret Academic College | 🌍 Full-Stack & Distributed Systems Enthusiast
+🚀 Software Engineer | 🎓 Kinneret Academic College | 🌍 Full-Stack & Distributed Systems Enthusiast
 </p>
 
 ---
