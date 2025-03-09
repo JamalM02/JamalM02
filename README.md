@@ -1,16 +1,71 @@
-## Hi there 👋
+<h1 align="center">👋 Hi there! I'm Jamal Majadle</h1>
+<p align="center">
+🚀 Software Engineer | 🎓 Final-Year Student at Kinneret Academic College | 🌍 Full-Stack & Distributed Systems Enthusiast
+</p>
 
-<!--
-**JamalM02/JamalM02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+I am a **Software Engineering student** specializing in **full-stack development**, **backend systems**, and **debugging**. Passionate about **building scalable applications**, I focus on **high-availability systems, microservices, and cloud-based solutions**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I primarily develop, maintain, and optimize Java applications while collaborating with cross-functional teams to implement scalable solutions. My expertise includes **troubleshooting, debugging, and performance optimization**.
+
+---
+
+## 🏆 Featured Projects
+### 📚 ScholarShareNet - Student Collaboration Platform  
+🚀 **[ScholarShareNet](https://scholarsharenet.vercel.app/)** is a **study material-sharing platform** where students collaborate, upload resources, and receive academic ratings.
+
+🛠 **Tech Stack:** React.js, Node.js, MongoDB, Heroku, Vercel  
+🔗 **Live Demo:** [ScholarShareNet](https://scholarsharenet.vercel.app/)  
+🔧 **GitHub Repo:** _[Link to ScholarShareNet repo](#)_  
+
+---
+
+### 🅿️ Mulligan Parking System - Distributed Parking Management  
+🚀 **[Mulligan Parking System](#)** is a **fully distributed, fault-tolerant parking system** using **RabbitMQ, MongoDB, and AI-powered recommendations**.
+
+🛠 **Tech Stack:**  
+- **Backend:** Spring Boot, Express.js  
+- **Database:** Clustered MongoDB (3-node replica set)  
+- **Messaging System:** Clustered RabbitMQ (3-node cluster)  
+- **Recommender System:** AI-powered with 3 managed copies  
+
+🔧 **GitHub Repo:** _[Link to Mulligan Parking System repo](#)_  
+
+---
+
+## ⚙️ Technical Skills
+### **Languages**
+- 💻 Java, Python, C, JavaScript
+- 🖥️ HTML, CSS, SQL
+
+### **Development & Tools**
+- **Frontend:** React.js, HTML, CSS, JavaScript  
+- **Backend:** Node.js, Express.js, Spring Boot  
+- **Databases:** MongoDB (Clustered), SQL  
+- **DevOps & Tools:** Docker, Kubernetes, RabbitMQ, CI/CD, Heroku, Vercel  
+
+### **Concepts**
+- 🏗️ **Distributed Systems**, **Microservices**  
+- 📈 **System Design**, **API Development**  
+- 🔐 **Data Security**, **Authentication & Authorization**  
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JamalM02&show_icons=true&theme=radical" alt="Jamal's GitHub Stats" />
+</p>
+
+---
+
+## 📬 Contact Me
+📧 **Email:** [Jamal.majadle02@gmail.com](mailto:Jamal.majadle02@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/jamal-majadle](https://www.linkedin.com/in/jamal-majadle)  
+💻 **GitHub:** [github.com/JamalM02](https://github.com/JamalM02)  
+🌍 **Portfolio:** [ScholarShareNet](https://scholarsharenet.vercel.app/)
+
+---
+
+🚀 **Open to full-stack and software engineering internship opportunities!** Let’s build something amazing together.
