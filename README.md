@@ -18,7 +18,9 @@ I primarily develop, maintain, and optimize Java applications while collaboratin
 
 🛠 **Tech Stack:** React.js, Node.js, MongoDB, Heroku, Vercel  
 🔗 **Live Demo:** [ScholarShareNet](https://scholarsharenet.vercel.app/)  
-🔧 **GitHub Repo:** _[Link to ScholarShareNet repo](#)_  
+🔧 **GitHub Repos:** 
+_[ScholarShareNet - Client](https://github.com/JamalM02/SuperIdea-client)_
+_[ScholarShareNet - Server](https://github.com/JamalM02/SuperIdea-server)_
 
 ---
 
@@ -31,7 +33,7 @@ I primarily develop, maintain, and optimize Java applications while collaboratin
 - **Messaging System:** Clustered RabbitMQ (3-node cluster)  
 - **Recommender System:** AI-powered with 3 managed copies  
 
-🔧 **GitHub Repo:** _[Link to Mulligan Parking System repo](#)_  
+🔧 **GitHub Repo:** _[Mulligan Parking System](https://github.com/JamalM02/MulliganParkingSys)_  
 
 ---
 
@@ -60,6 +62,13 @@ I primarily develop, maintain, and optimize Java applications while collaboratin
 
 ---
 
+## 🔧 GitHub Repositories
+- 📝 **[ScholarShareNet - Client](https://github.com/JamalM02/SuperIdea-client)**
+- 🏗️ **[ScholarShareNet - Server](https://github.com/JamalM02/SuperIdea-server)**
+- 🚘 **[Mulligan Parking System](https://github.com/JamalM02/MulliganParkingSys)**
+
+---
+
 ## 📬 Contact Me
 📧 **Email:** [Jamal.majadle02@gmail.com](mailto:Jamal.majadle02@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/jamal-majadle](https://www.linkedin.com/in/jamal-majadle)  
@@ -68,4 +77,4 @@ I primarily develop, maintain, and optimize Java applications while collaboratin
 
 ---
 
-🚀 **Open to full-stack and software engineering internship opportunities!** Let’s build something amazing together.
+🚀 **Actively seeking internship opportunities in full-stack development and software engineering. Let's build innovative solutions together!**
