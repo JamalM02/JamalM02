@@ -6,52 +6,72 @@
 ---
 
 ## 🚀 About Me
-I am a **Software Engineering student** specializing in **full-stack development**, **backend systems**, and **debugging**. Passionate about **building scalable applications**, I focus on **high-availability systems, microservices, and cloud-based solutions**.
+I am a **Software Engineering graduate** specializing in **full-stack development**, **backend systems**, and **distributed architecture**. Passionate about **building scalable, real-time applications**, I focus on **high-availability systems, microservices, and cloud-based solutions**.
 
-I primarily develop, maintain, and optimize Java applications while collaborating with cross-functional teams to implement scalable solutions. My expertise includes **troubleshooting, debugging, and performance optimization**.
+Throughout my academic and professional journey, I’ve built multiple end-to-end systems, mentored students, and led one of Israel’s largest student unions.
 
 ---
 
 ## 🏆 Featured Projects
-### 📚 ScholarShareNet - Student Collaboration Platform  
-🚀 **[ScholarShareNet](https://scholarsharenet.vercel.app/)** is a **study material-sharing platform** where students collaborate, upload resources, and receive academic ratings.
 
-🛠 **Tech Stack:** React.js, Node.js, MongoDB, Heroku, Vercel  
-🔗 **Live Demo:** [ScholarShareNet](https://scholarsharenet.vercel.app/)  
-🔧 **GitHub Repos:** 
-_[ScholarShareNet - Client](https://github.com/JamalM02/SuperIdea-client)_
-_[ScholarShareNet - Server](https://github.com/JamalM02/SuperIdea-server)_
+### 📚 ScholarShareNet – Student Collaboration Platform  
+**[ScholarShareNet](https://scholarsharenet.vercel.app/)** is a **study material-sharing platform** where students collaborate, upload academic content, and receive ratings from peers and teachers.
+
+🛠 **Tech Stack:** React.js, Node.js, MongoDB, Vercel, Heroku  
+🔗 **Live Demo:** [scholarsharenet.vercel.app](https://scholarsharenet.vercel.app/)  
+🔧 **GitHub Repos:**  
+- [Client](https://github.com/JamalM02/SuperIdea-client)  
+- [Server](https://github.com/JamalM02/SuperIdea-server)
 
 ---
 
-### 🅿️ Mulligan Parking System - Distributed Parking Management  
-🚀 **[Mulligan Parking System](#)** is a **fully distributed, fault-tolerant parking system** using **RabbitMQ, MongoDB, and AI-powered recommendations**.
+### 📊 InsightMesh – Real-Time Analytics Platform  
+A **real-time analytics and billing platform** for event tracking across external apps.
 
-🛠 **Tech Stack:**  
-- **Backend:** Spring Boot, Express.js  
-- **Database:** Clustered MongoDB (3-node replica set)  
-- **Messaging System:** Clustered RabbitMQ (3-node cluster)  
-- **Recommender System:** AI-powered with 3 managed copies  
+🛠 **Tech Stack:** gRPC, Kafka, Temporal.io, Docker, ClickHouse, Neon Postgres, Metabase  
+🔗 **Live Site:** [insightmesh.site](https://insightmesh.site)  
+🔧 **GitHub Repo:** [InsightMesh](https://github.com/JamalM02/InsightMesh)
 
-🔧 **GitHub Repo:** _[Mulligan Parking System](https://github.com/JamalM02/MulliganParkingSys)_  
+---
+
+### 🅿️ Mulligan Parking System – Distributed Parking Management  
+A **clustered and fault-tolerant smart parking system** that allows customers to choose zones and book parking in real time.
+
+🛠 **Tech Stack:** Spring Boot, Express.js, MongoDB (replica set), RabbitMQ (3-node cluster), AI Recommender System  
+🔧 **GitHub Repo:** [MulliganParkingSys](https://github.com/JamalM02/MulliganParkingSys)
+
+---
+
+### 🧠 Knesset Face Recognition – Deep Learning + Hebrew NLP  
+A **facial recognition engine** trained on Israeli public figures using DeepFace, OpenCV, and Hebrew NLP from Wikipedia.
+
+🛠 **Tech Stack:** Python, DeepFace, OpenCV, BeautifulSoup, Wikipedia scraping, JSON embedding database  
+🔧 **GitHub Repo:** [Face Recognition Project](https://github.com/JamalM02/Face_Recognition_Project)
 
 ---
 
 ## ⚙️ Technical Skills
-### **Languages**
-- 💻 Java, Python, C, JavaScript
-- 🖥️ HTML, CSS, SQL
 
-### **Development & Tools**
-- **Frontend:** React.js, HTML, CSS, JavaScript  
-- **Backend:** Node.js, Express.js, Spring Boot  
-- **Databases:** MongoDB (Clustered), SQL  
-- **DevOps & Tools:** Docker, Kubernetes, RabbitMQ, CI/CD, Heroku, Vercel  
+### 💻 Languages
+- Java, Python, C, JavaScript, TypeScript, SQL, HTML, CSS
 
-### **Concepts**
-- 🏗️ **Distributed Systems**, **Microservices**  
-- 📈 **System Design**, **API Development**  
-- 🔐 **Data Security**, **Authentication & Authorization**  
+### 🧱 Frameworks & Libraries
+- **Frontend:** React.js, Bootstrap, Tailwind  
+- **Backend:** Node.js, Express.js, Spring Boot, gRPC  
+- **Messaging:** Kafka, RabbitMQ  
+- **Data Handling:** Mongoose, Prisma, Axios  
+
+### 🗄️ Databases
+- MongoDB (Compass & Atlas), PostgreSQL, ClickHouse
+
+### 🔐 Auth & Security
+- OAuth2, JWT, Role-based Access Control, Two-Factor Authentication (2FA)
+
+### 🧰 DevOps & Cloud
+- Docker, GitHub Actions, Heroku, Vercel, CI/CD pipelines
+
+### 🧠 Architecture
+- API Gateway Design, Microservices, Temporal Workflows
 
 ---
 
@@ -62,19 +82,13 @@ _[ScholarShareNet - Server](https://github.com/JamalM02/SuperIdea-server)_
 
 ---
 
-## 🔧 GitHub Repositories
-- 📝 **[ScholarShareNet - Client](https://github.com/JamalM02/SuperIdea-client)**
-- 🏗️ **[ScholarShareNet - Server](https://github.com/JamalM02/SuperIdea-server)**
-- 🚘 **[Mulligan Parking System](https://github.com/JamalM02/MulliganParkingSys)**
-
----
-
 ## 📬 Contact Me
+
 📧 **Email:** [Jamal.majadle02@gmail.com](mailto:Jamal.majadle02@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/jamal-majadle](https://www.linkedin.com/in/jamal-majadle)  
 💻 **GitHub:** [github.com/JamalM02](https://github.com/JamalM02)  
-🌍 **Portfolio:** [ScholarShareNet](https://scholarsharenet.vercel.app/)
+🌍 **Portfolio:** [ScholarShareNet](https://scholarsharenet.vercel.app/) | [InsightMesh](https://insightmesh.site)
 
 ---
 
-🚀 **Actively seeking internship opportunities in full-stack development and software engineering. Let's build innovative solutions together!**
+🔍 **Now open to backend / full-stack / system engineering roles. Let's connect!**
