@@ -11,8 +11,16 @@ I am a **Software Engineering graduate** specializing in **full-stack developmen
 Throughout my academic and professional journey, I’ve built multiple end-to-end systems, mentored students, and led one of Israel’s largest student unions.
 
 ---
-
 ## 🏆 Featured Projects
+
+### 📊 InsightMesh – Real-Time Analytics Platform  
+A **real-time analytics and billing platform** for event tracking across external apps.
+
+🛠 **Tech Stack:** gRPC, Kafka, Temporal.io, Docker, ClickHouse, Neon Postgres, Metabase  
+🔗 **Live Site:** [insightmesh.site](https://insightmesh.site)  
+🔧 **GitHub Repo:** [InsightMesh](https://github.com/JamalM02/InsightMesh)
+
+---
 
 ### 📚 ScholarShareNet – Student Collaboration Platform  
 **[ScholarShareNet](https://scholarsharenet.vercel.app/)** is a **study material-sharing platform** where students collaborate, upload academic content, and receive ratings from peers and teachers.
@@ -22,15 +30,6 @@ Throughout my academic and professional journey, I’ve built multiple end-to-en
 🔧 **GitHub Repos:**  
 - [Client](https://github.com/JamalM02/SuperIdea-client)  
 - [Server](https://github.com/JamalM02/SuperIdea-server)
-
----
-
-### 📊 InsightMesh – Real-Time Analytics Platform  
-A **real-time analytics and billing platform** for event tracking across external apps.
-
-🛠 **Tech Stack:** gRPC, Kafka, Temporal.io, Docker, ClickHouse, Neon Postgres, Metabase  
-🔗 **Live Site:** [insightmesh.site](https://insightmesh.site)  
-🔧 **GitHub Repo:** [InsightMesh](https://github.com/JamalM02/InsightMesh)
 
 ---
 
