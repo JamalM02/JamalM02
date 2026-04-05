@@ -18,7 +18,6 @@ A **memorial platform** designed to preserve and organize life stories, memories
 
 🛠 **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, OCR, AI workflows  
 🔗 **Live Site:** [cemomemo.com](https://cemomemo.com)  
-🔧 **Project Link:** [Cemomemo](https://cemomemo.com)
 
 ---
 
