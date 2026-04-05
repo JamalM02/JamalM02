@@ -13,11 +13,20 @@ Throughout my academic and professional journey, I’ve built multiple end-to-en
 ---
 ## 🏆 Featured Projects
 
+### 🕯️ Cemomemo – Memorial Platform with OCR and AI
+A **memorial platform** designed to preserve and organize life stories, memories, and related content with a structured digital experience. Built with a strong focus on **document handling, OCR pipelines, and AI-assisted workflows**.
+
+🛠 **Tech Stack:** Next.js, TypeScript, Prisma, PostgreSQL, OCR, AI workflows  
+🔗 **Live Site:** [cemomemo.com](https://cemomemo.com)  
+🔧 **Project Link:** [Cemomemo](https://cemomemo.com)
+
+---
+
 ### 📊 InsightMesh – Real-Time Analytics Platform  
 A **real-time analytics and billing platform** for event tracking across external apps.
 
 🛠 **Tech Stack:** gRPC, Kafka, Temporal.io, Docker, ClickHouse, Neon Postgres, Metabase  
-🔗 **Live Site:** [insightmesh.site](https://insightmesh.site)  
+🔗 **Live Site:** [insightmesh.site](https://insightmesh.jmd-solutions.com)  
 🔧 **GitHub Repo:** [InsightMesh](https://github.com/JamalM02/InsightMesh)
 
 ---
@@ -26,7 +35,7 @@ A **real-time analytics and billing platform** for event tracking across externa
 **[ScholarShareNet](https://scholarsharenet.vercel.app/)** is a **study material-sharing platform** where students collaborate, upload academic content, and receive ratings from peers and teachers.
 
 🛠 **Tech Stack:** React.js, Node.js, MongoDB, Vercel, Heroku  
-🔗 **Live Demo:** [scholarsharenet.vercel.app](https://scholarsharenet.vercel.app/)  
+🔗 **Live Demo:** [scholarsharenet.vercel.app](https://scholarsharenet.jmd-solutions.com)  
 🔧 **GitHub Repos:**  
 - [Client](https://github.com/JamalM02/SuperIdea-client)  
 - [Server](https://github.com/JamalM02/SuperIdea-server)
